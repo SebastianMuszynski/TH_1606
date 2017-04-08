@@ -1,6 +1,6 @@
-#Agree
+# Agree
 
-## Make group decisions. Faster. Easier. Better. Agree is a web application where you can invite participants, take equal turns making suggestions via RTC, and vote on your favorites. A timer makes sure that the decision is being made and everybody has an equal opportunity to share their idea.
+Make group decisions. Faster. Easier. Better. Agree is a web application where you can invite participants, take equal turns making suggestions via RTC, and vote on your favorites. A timer makes sure that the decision is being made and everybody has an equal opportunity to share their idea.
 
 ### TalkTech
 
@@ -16,11 +16,11 @@ In cases where the app is used for voting, when all members have proposed and vo
 
 ### Core features:
 
-####1. Multiuser real time communication
+#### 1. Multiuser real time communication
 
-####2. Limited and equally distributed presentation time
+#### 2. Limited and equally distributed presentation time
 
-####3. Discussion rounds
+#### 3. Discussion rounds
 
 ### What problem does your service solve?
 
